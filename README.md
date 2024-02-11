@@ -1,5 +1,5 @@
 # proton-fps
-Online multiplayer shooting game, Free-for-all mode
+Online multiplayer shooting game, Free-for-all mode.
 Using proton for online functionality
 
 Followed this: https://www.youtube.com/watch?v=MAAxL6Q_ElE&list=PL6PsTmPNvw0eZirNDjO8dL0Y6X0ZFGaMt
